@@ -1,4 +1,4 @@
-# dark Patterns on Streaming Services (Bachelor Thesis)
+# Dark Patterns on Streaming Services (Bachelor Thesis)
 Invesigating awerness, ability to recognize and influence dispite awreness and ability to recogize.
 
 This repository contains supplementary material including:
