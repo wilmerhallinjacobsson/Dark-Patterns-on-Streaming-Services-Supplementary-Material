@@ -1,1 +1,1 @@
-Unfortunetly, I was unable to retrieve the English version of the survey because of a bug on Jotforms online service that deleted the translation during my trial to capture screenshots of it.
+Unfortunetly, I was unable to retrieve the English version of the survey because of a bug on Jotforms online service that deleted the translation during my trial to capture screenshots of it. If it is at some point recovered, it will be uploaded here.
