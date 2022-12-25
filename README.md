@@ -4,5 +4,5 @@ Invesigating awerness of-, ability to recognize- and influence of- dispite awren
 This repository contains supplementary material including:
 - The .ipynb-file that was used for the data analysis
 - screenshots of the survey that was used to collect the data (in swedish and english)
-- links to the videos that was used in the survey
+- links to the videos and images that was used in the survey
 
